@@ -1,0 +1,15 @@
+body {font-family: Helvetica, Arial, sans-serif; line-height:1.3; text-align:center; width:60%; margin:0 auto;}
+#isthe { margin-top: 5%; font-size: 50px; }
+#isthe a { color: #000; }
+#yesno { margin-bottom: 2em; border-top:1px solid #00ace1; border-bottom:1px solid #00ace1; padding-bottom:30px;}
+#share { text-align: center; }
+#footer { margin: 30px; }
+
+.fill-in { font-family: 'Permanent Marker', arial, sans-serif; font-size: 150px; }
+.about { width: 40%; text-align: left; }
+.small { font-size: 10px; }
+.twitter-share-button { vertical-align:top; }
+
+a:link, a:visited { text-decoration: none; color: #00ace1; }
+a:hover { border-bottom: 2px solid #00ace1; }
+a#counter:hover { border: 0; text-decoration: underline; }
